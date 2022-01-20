@@ -1,3 +1,3 @@
 # sema
 
-Simple design of a traffic controller in Microchip PIC ASM (PIC16F84A).
+Simple design of a traffic light controller in Microchip PIC ASM (PIC16F84A).
